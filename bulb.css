@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bulb{
+    position: relative;
+    top: 1vw;
+    left: 30vw;
+    width: 40vw;
+    height: 40vw;
+    border-radius: 50%;
+    border: 2px solid;
+    cursor: pointer;
+    transition: 2s;
+}
+button{
+    position: relative;
+    left: 46.2vw;
+    top: 3vw;
+    padding: 1vw;
+    background-image:linear-gradient(blue,cyan);
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 0.9vw;
+}
